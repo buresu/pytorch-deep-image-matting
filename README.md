@@ -1,1 +1,1 @@
-# pytorch-deep-image-matting
+# Pytorch Deep Image Matting
